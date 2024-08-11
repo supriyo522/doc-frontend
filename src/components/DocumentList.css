@@ -1,0 +1,15 @@
+.document-list {
+    margin-top: 20px;
+  }
+  
+  .document-list h2 {
+    color: #555;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #eee;
+  }
+  
+  .document-list .document-category {
+    margin-bottom: 30px;
+  }
+  
